@@ -111,9 +111,4 @@
 
 ---
 
-## 📎 Источники
-- [CyberDefenders — QRadar101](https://cyberdefenders.org/blueteam-ctf-challenges/qradar101/)
 
----
-
-*Данный writeup подготовлен в учебных целях для демонстрации навыков анализа инцидентов в SIEM (QRadar).*
